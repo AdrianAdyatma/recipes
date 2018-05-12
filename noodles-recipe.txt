@@ -1,7 +1,9 @@
 Ingredients:
- - 1 packet of fried noodle
+ - 2 packet of fried noodle
  - 1 teaspoon salt
+ - 1 egg
  - 1 pan boiling water
 
 Directions:
- 1. Boil the water using the pan.
+ 1. Boil the water using the pan, add salt.
+ 2. Poach the egg
